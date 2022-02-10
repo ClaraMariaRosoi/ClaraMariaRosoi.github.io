@@ -1,0 +1,31 @@
+a{
+  color:palevioletred;
+}
+
+a:hover{
+  color:lightpink;
+}
+label {
+    display: block;
+    text-align: left;
+}
+input {
+    text-align: left;
+  }
+  input:focus {
+    background-color:lightgray;
+  }
+button {
+    border: none;
+    background-color:pink;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  h3{
+    color:hotpink;
+}

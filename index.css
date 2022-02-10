@@ -1,0 +1,21 @@
+img[src*='image']{
+    height: 300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1{
+   text-align: center;
+   color:deeppink;
+}
+h3{
+    color:hotpink;
+}
+
+a{
+    color:palevioletred;
+}
+
+a:hover{
+    color:lightpink;
+}
